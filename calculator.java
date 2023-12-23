@@ -1,3 +1,4 @@
+/ * New line as commnet added in Java
 import java.util.Scanner;
 
  public class calculator
